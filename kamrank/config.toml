@@ -1,3 +1,11 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://www.kamrank.org"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "Kamran Khawaja"
+
+[Params]
+  github = "kkhaw1"
+  bitbucket = "kamrank"
+  description = "Software Engineer"
+  linkedin = "kamrankhawaja"
+  logo = "logo.png"
+
