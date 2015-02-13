@@ -1,6 +1,7 @@
 baseurl = ""
 languageCode = "en-us"
 title = "Kamran Khawaja"
+theme = "hugoscroll"
 
 [Params]
   github = "kkhaw1"
