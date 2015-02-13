@@ -1,4 +1,4 @@
-baseurl = "http://www.kamrank.org"
+baseurl = ""
 languageCode = "en-us"
 title = "Kamran Khawaja"
 
@@ -7,5 +7,5 @@ title = "Kamran Khawaja"
   bitbucket = "kamrank"
   description = "Software Engineer"
   linkedin = "kamrankhawaja"
-  logo = "logo.png"
+  logo = "/img/logo.png"
 
